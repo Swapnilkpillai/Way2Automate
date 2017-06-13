@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="Way2Automate" project="Way2Automate" tests="1" started="1" failures="0" errors="0" ignored="1">
+  <testsuite name="com.Test.Usecases.RunnerTest" time="0.001">
+    <testsuite name="Feature: Open the application" time="0.001">
+      <testsuite name="Scenario: Open the Application" time="0.001" incomplete="true">
+        <skipped/>
+        <testcase name="Given Open the URL" classname="Scenario: Open the Application" time="0.001" ignored="true"/>
+      </testsuite>
+    </testsuite>
+  </testsuite>
+</testrun>

@@ -1,0 +1,134 @@
+2017-06-12 12:38:24,751 [Worker-7] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' E:\My Work\WorkSpace\Way2Automate\pom.xml
+2017-06-12 12:38:27,674 [Worker-7] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Way2Automate:Way2Automate:0.0.1-SNAPSHOT @ E:\My Work\WorkSpace\Way2Automate\pom.xml.
+2017-06-12 12:38:28,610 [Worker-7] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Way2Automate/src/main/java
+2017-06-12 12:38:28,629 [Worker-7] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Way2Automate/src/test/java
+2017-06-12 12:38:29,529 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Way2Automate:Way2Automate:0.0.1-SNAPSHOT @ E:\My Work\WorkSpace\Way2Automate\pom.xml.
+2017-06-12 12:38:29,578 [Worker-7] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 4 sec
+2017-06-12 12:38:30,438 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-12 12:38:30,438 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\My Work\WorkSpace\Way2Automate\src\main\resources
+2017-06-12 12:38:30,441 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-12 12:38:30,441 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\My Work\WorkSpace\Way2Automate\src\test\resources
+2017-06-12 12:39:07,574 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Way2Automate:Way2Automate:0.0.1-SNAPSHOT @ E:\My Work\WorkSpace\Way2Automate\pom.xml.
+2017-06-12 12:39:08,575 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-12 12:39:08,575 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\My Work\WorkSpace\Way2Automate\src\main\resources
+2017-06-12 12:39:08,577 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-12 12:39:08,577 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\My Work\WorkSpace\Way2Automate\src\test\resources
+2017-06-12 12:39:10,639 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-12 12:39:10,639 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\My Work\WorkSpace\Way2Automate\src\main\resources
+2017-06-12 12:39:10,641 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-12 12:39:10,641 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\My Work\WorkSpace\Way2Automate\src\test\resources
+2017-06-12 12:39:52,699 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-12 12:39:52,699 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\My Work\WorkSpace\Way2Automate\src\main\resources
+2017-06-12 12:39:52,700 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-12 12:39:52,700 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\My Work\WorkSpace\Way2Automate\src\test\resources
+2017-06-12 12:40:04,738 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-12 12:40:04,738 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\My Work\WorkSpace\Way2Automate\src\main\resources
+2017-06-12 12:40:04,739 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-12 12:40:04,739 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\My Work\WorkSpace\Way2Automate\src\test\resources
+2017-06-12 12:40:30,512 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-12 12:40:30,512 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\My Work\WorkSpace\Way2Automate\src\main\resources
+2017-06-12 12:40:30,513 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-12 12:40:30,514 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\My Work\WorkSpace\Way2Automate\src\test\resources
+2017-06-12 12:40:31,599 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-12 12:40:31,599 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\My Work\WorkSpace\Way2Automate\src\main\resources
+2017-06-12 12:40:31,601 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-12 12:40:31,601 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\My Work\WorkSpace\Way2Automate\src\test\resources
+2017-06-12 12:40:55,513 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-12 12:40:55,513 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\My Work\WorkSpace\Way2Automate\src\main\resources
+2017-06-12 12:40:55,515 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-12 12:40:55,516 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\My Work\WorkSpace\Way2Automate\src\test\resources
+2017-06-12 12:41:49,602 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-12 12:41:49,602 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\My Work\WorkSpace\Way2Automate\src\main\resources
+2017-06-12 12:41:49,603 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-12 12:41:49,604 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\My Work\WorkSpace\Way2Automate\src\test\resources
+2017-06-12 12:42:36,719 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-12 12:42:36,719 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\My Work\WorkSpace\Way2Automate\src\main\resources
+2017-06-12 12:42:36,720 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-12 12:42:36,721 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\My Work\WorkSpace\Way2Automate\src\test\resources
+2017-06-12 12:43:28,065 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-12 12:43:28,066 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\My Work\WorkSpace\Way2Automate\src\main\resources
+2017-06-12 12:43:28,068 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-12 12:43:28,069 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\My Work\WorkSpace\Way2Automate\src\test\resources
+2017-06-12 12:43:53,019 [Worker-7] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Way2Automate:Way2Automate:0.0.1-SNAPSHOT @ E:\My Work\WorkSpace\Way2Automate\pom.xml.
+2017-06-12 12:43:53,883 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-12 12:43:53,884 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\My Work\WorkSpace\Way2Automate\src\main\resources
+2017-06-12 12:43:53,885 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-12 12:43:53,885 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\My Work\WorkSpace\Way2Automate\src\test\resources
+2017-06-12 12:46:46,277 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-12 12:46:46,277 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\My Work\WorkSpace\Way2Automate\src\main\resources
+2017-06-12 12:46:46,279 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-12 12:46:46,279 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\My Work\WorkSpace\Way2Automate\src\test\resources
+2017-06-12 12:46:59,491 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-12 12:46:59,491 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\My Work\WorkSpace\Way2Automate\src\main\resources
+2017-06-12 12:46:59,493 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-12 12:46:59,493 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\My Work\WorkSpace\Way2Automate\src\test\resources
+2017-06-12 12:47:29,623 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-12 12:47:29,623 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\My Work\WorkSpace\Way2Automate\src\main\resources
+2017-06-12 12:47:29,624 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-12 12:47:29,625 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\My Work\WorkSpace\Way2Automate\src\test\resources
+2017-06-12 12:47:51,316 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-12 12:47:51,316 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\My Work\WorkSpace\Way2Automate\src\main\resources
+2017-06-12 12:47:51,321 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-12 12:47:51,322 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\My Work\WorkSpace\Way2Automate\src\test\resources
+2017-06-12 12:48:03,947 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-12 12:48:03,947 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\My Work\WorkSpace\Way2Automate\src\main\resources
+2017-06-12 12:48:03,949 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-12 12:48:03,949 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\My Work\WorkSpace\Way2Automate\src\test\resources
+2017-06-12 12:48:29,887 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Way2Automate:Way2Automate:0.0.1-SNAPSHOT @ E:\My Work\WorkSpace\Way2Automate\pom.xml.
+2017-06-12 12:48:30,632 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-12 12:48:30,633 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\My Work\WorkSpace\Way2Automate\src\main\resources
+2017-06-12 12:48:30,634 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-12 12:48:30,634 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\My Work\WorkSpace\Way2Automate\src\test\resources
+2017-06-12 12:48:50,498 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-12 12:48:50,498 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\My Work\WorkSpace\Way2Automate\src\main\resources
+2017-06-12 12:48:50,499 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-12 12:48:50,499 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\My Work\WorkSpace\Way2Automate\src\test\resources
+2017-06-12 12:50:14,857 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-12 12:50:14,857 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\My Work\WorkSpace\Way2Automate\src\main\resources
+2017-06-12 12:50:14,859 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-12 12:50:14,859 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\My Work\WorkSpace\Way2Automate\src\test\resources
+2017-06-12 12:50:34,599 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-12 12:50:34,599 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\My Work\WorkSpace\Way2Automate\src\main\resources
+2017-06-12 12:50:34,600 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-12 12:50:34,600 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\My Work\WorkSpace\Way2Automate\src\test\resources
+2017-06-12 12:51:00,713 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-12 12:51:00,713 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\My Work\WorkSpace\Way2Automate\src\main\resources
+2017-06-12 12:51:00,714 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-12 12:51:00,715 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\My Work\WorkSpace\Way2Automate\src\test\resources
+2017-06-12 12:51:39,720 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-12 12:51:39,720 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\My Work\WorkSpace\Way2Automate\src\main\resources
+2017-06-12 12:51:39,721 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-12 12:51:39,721 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\My Work\WorkSpace\Way2Automate\src\test\resources
+2017-06-12 12:51:52,115 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-12 12:51:52,115 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\My Work\WorkSpace\Way2Automate\src\main\resources
+2017-06-12 12:51:52,121 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-12 12:51:52,121 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\My Work\WorkSpace\Way2Automate\src\test\resources
+2017-06-12 12:51:55,023 [Worker-10] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Way2Automate:Way2Automate:0.0.1-SNAPSHOT @ E:\My Work\WorkSpace\Way2Automate\pom.xml.
+2017-06-12 12:51:56,020 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-12 12:51:56,021 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\My Work\WorkSpace\Way2Automate\src\main\resources
+2017-06-12 12:51:56,022 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-12 12:51:56,022 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\My Work\WorkSpace\Way2Automate\src\test\resources
+2017-06-12 12:52:48,160 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-12 12:52:48,161 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\My Work\WorkSpace\Way2Automate\src\main\resources
+2017-06-12 12:52:48,162 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-12 12:52:48,163 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\My Work\WorkSpace\Way2Automate\src\test\resources
+2017-06-12 12:53:29,796 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-12 12:53:29,797 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\My Work\WorkSpace\Way2Automate\src\main\resources
+2017-06-12 12:53:29,798 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-12 12:53:29,798 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\My Work\WorkSpace\Way2Automate\src\test\resources
+2017-06-12 12:54:43,353 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-12 12:54:43,353 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\My Work\WorkSpace\Way2Automate\src\main\resources
+2017-06-12 12:54:43,354 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-12 12:54:43,354 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\My Work\WorkSpace\Way2Automate\src\test\resources
+2017-06-12 12:56:12,413 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-12 12:56:12,413 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\My Work\WorkSpace\Way2Automate\src\main\resources
+2017-06-12 12:56:12,414 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-12 12:56:12,414 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\My Work\WorkSpace\Way2Automate\src\test\resources
+2017-06-12 12:57:08,723 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-12 12:57:08,723 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\My Work\WorkSpace\Way2Automate\src\main\resources
+2017-06-12 12:57:08,724 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-12 12:57:08,724 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\My Work\WorkSpace\Way2Automate\src\test\resources
+2017-06-12 12:57:11,673 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-12 12:57:11,673 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\My Work\WorkSpace\Way2Automate\src\main\resources
+2017-06-12 12:57:11,674 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-12 12:57:11,674 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\My Work\WorkSpace\Way2Automate\src\test\resources

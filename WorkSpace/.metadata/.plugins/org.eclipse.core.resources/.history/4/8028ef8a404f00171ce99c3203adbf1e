@@ -1,0 +1,16 @@
+package com.Test.Usecases;
+
+import com.test.Configuration.BaseClass;
+
+import cucumber.api.java.en.Given;
+
+public class OpenApplication extends BaseClass{
+
+	@Given("^Open the application$")
+	public void open_the_URL() throws Exception  {
+		InitialiseParameter();
+	    InitialiseDriver();
+	    CallURL(CON.getProperty("ApplictaionURL"));
+	 //   throw new PendingException();
+	}
+}
