@@ -242,3 +242,11 @@
 2017-06-19 11:55:50,715 [Worker-171] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\My Work\GIT_Way2Automate\WorkSpace\Way2Automate\src\main\resources
 2017-06-19 11:55:50,716 [Worker-171] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2017-06-19 11:55:50,717 [Worker-171] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\My Work\GIT_Way2Automate\WorkSpace\Way2Automate\src\test\resources
+2017-06-19 14:20:00,934 [Worker-204] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-19 14:20:00,934 [Worker-204] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\My Work\GIT_Way2Automate\WorkSpace\Way2Automate\src\main\resources
+2017-06-19 14:20:00,936 [Worker-204] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-19 14:20:00,936 [Worker-204] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\My Work\GIT_Way2Automate\WorkSpace\Way2Automate\src\test\resources
+2017-06-19 17:40:53,579 [Worker-240] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-19 17:40:53,579 [Worker-240] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\My Work\GIT_Way2Automate\WorkSpace\Way2Automate\src\main\resources
+2017-06-19 17:40:53,580 [Worker-240] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-19 17:40:53,581 [Worker-240] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\My Work\GIT_Way2Automate\WorkSpace\Way2Automate\src\test\resources
