@@ -6,5 +6,3 @@ passwordTextList = //div[@class = 'popupbox']//fieldset[2]//input
 loginButtonList = //input[@value = 'Submit']
 
 //************FramesAndWindows*****************
-
-//Test
