@@ -1,0 +1,36 @@
+package com.Test.Usecases;
+
+import com.test.Configuration.BaseClass;
+
+import cucumber.api.java.en.Given;
+
+public class Login extends BaseClass{
+	
+	@Given("^Open the URL$")
+	public void open_the_URL() throws Throwable {
+		InitialiseParameter();
+	    InitialiseDriver();
+	    CallURL(CON.getProperty("ApplictaionURL"));
+	}
+	
+	@Then("^Enter the UserName$")
+	public void enter_the_UserName() throws Throwable {
+	    // Write code here that turns the phrase above into concrete actions
+	    throw new PendingException();
+	}
+
+	@Then("^Enter the Password$")
+	public void enter_the_Password() throws Throwable {
+	    // Write code here that turns the phrase above into concrete actions
+	    throw new PendingException();
+	}
+
+	@Then("^Click on Login button$")
+	public void click_on_Login_button() throws Throwable {
+	    // Write code here that turns the phrase above into concrete actions
+	    throw new PendingException();
+	}
+
+
+
+}

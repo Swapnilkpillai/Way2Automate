@@ -10,7 +10,7 @@ import cucumber.api.junit.Cucumber;
 @CucumberOptions(	
 		plugin ={"pretty","json:src/test/resource/cucumber.json","html:src/test/resource/cucumber",},
 		features="src/feature/resource/featureFiles"
-				,tags ={"@OpenApplication"}
+				,tags ={"@Login"}
 				)
 public class RunnerTest {
 

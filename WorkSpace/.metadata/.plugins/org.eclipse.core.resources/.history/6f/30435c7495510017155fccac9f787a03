@@ -1,0 +1,41 @@
+package com.Test.Usecases;
+
+import java.util.List;
+
+import org.openqa.selenium.By;
+import org.openqa.selenium.WebElement;
+
+import com.test.Configuration.BaseClass;
+
+import cucumber.api.java.en.*;
+
+public class Login extends BaseClass{
+	
+	@Given("^Open the URL$")
+	public void open_the_URL() throws Throwable {
+		InitialiseParameter();
+	    InitialiseDriver();
+	    CallURL(CON.getProperty("ApplictaionURL"));
+	}
+	
+	@Then("^Enter the UserName$")
+	public void enter_the_UserName() throws Throwable {
+		List<WebElement> un= driver.findElements(By.xpath(OR.getProperty("userNameTextList"))); 
+WebElement userName = displayedElement(UN);
+		
+		userName.sendKeys("surajpillainew123");
+	}
+
+	@Then("^Enter the Password$")
+	public void enter_the_Password() throws Throwable {
+	    
+	}
+
+	@Then("^Click on Login button$")
+	public void click_on_Login_button() throws Throwable {
+	   
+	}
+
+
+
+}
