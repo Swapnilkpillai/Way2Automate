@@ -7,107 +7,79 @@
       },
       {
         "line": 2,
-        "value": "#Keywords Summary : This is the Login feature file"
-      },
-      {
-        "line": 3,
-        "value": "#Feature: Login"
-      },
-      {
-        "line": 4,
-        "value": "#Scenario:"
-      },
-      {
-        "line": 5,
-        "value": "#Given: Some precondition step"
-      },
-      {
-        "line": 6,
-        "value": "#When: Some key actions"
-      },
-      {
-        "line": 7,
-        "value": "#Then: To observe outcomes or validation"
-      },
-      {
-        "line": 8,
-        "value": "#And,But: To enumerate more Given,When,Then steps"
-      },
-      {
-        "line": 9,
-        "value": "#Scenario Outline: List of steps for data-driven as an Examples and \u003cplaceholder\u003e"
-      },
-      {
-        "line": 10,
-        "value": "#Examples: Container for s table"
-      },
-      {
-        "line": 11,
-        "value": "#Background: List of steps run before each of the scenarios"
-      },
-      {
-        "line": 12,
-        "value": "#\"\"\" (Doc Strings)"
-      },
-      {
-        "line": 13,
-        "value": "#| (Data Tables)"
-      },
-      {
-        "line": 14,
-        "value": "#@ (Tags/Labels):To group Scenarios"
-      },
-      {
-        "line": 15,
-        "value": "#\u003c\u003e (placeholder)"
-      },
-      {
-        "line": 16,
-        "value": "#\"\""
-      },
-      {
-        "line": 17,
-        "value": "## (Comments)"
-      },
-      {
-        "line": 19,
-        "value": "#Sample Feature Definition Template"
+        "value": "#Keywords Summary : This is for Login to the application"
       }
     ],
-    "line": 21,
+    "line": 7,
     "elements": [
       {
-        "line": 22,
-        "name": "Open the Application",
+        "line": 8,
+        "name": "Login to the Application",
         "description": "",
-        "id": "open-the-application;open-the-application",
+        "id": "login-to-the-application;login-to-the-application",
         "type": "scenario",
         "keyword": "Scenario",
         "steps": [
           {
             "result": {
-              "duration": 8915186060,
+              "duration": 21873655049,
               "status": "passed"
             },
-            "line": 23,
+            "line": 9,
             "name": "Open the URL",
             "match": {
-              "location": "OpenApplication.open_the_URL()"
+              "location": "Login.open_the_URL()"
             },
             "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 1150019480,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "Enter the UserName",
+            "match": {
+              "location": "Login.enter_the_UserName()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 1093160582,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "Enter the Password",
+            "match": {
+              "location": "Login.enter_the_Password()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 146157676,
+              "status": "passed"
+            },
+            "line": 12,
+            "name": "Click on Login button",
+            "match": {
+              "location": "Login.click_on_Login_button()"
+            },
+            "keyword": "Then "
           }
         ]
       }
     ],
-    "name": "Open the application",
+    "name": "Login to the Application",
     "description": "",
-    "id": "open-the-application",
+    "id": "login-to-the-application",
     "keyword": "Feature",
-    "uri": "OpenApplication.feature",
+    "uri": "Login.feature",
     "tags": [
       {
-        "line": 20,
-        "name": "@OpenApplication"
+        "line": 6,
+        "name": "@Login"
       }
     ]
   }

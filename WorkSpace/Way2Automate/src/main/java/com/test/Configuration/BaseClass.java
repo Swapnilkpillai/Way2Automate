@@ -1,11 +1,13 @@
 package com.test.Configuration;
 
 import java.io.InputStream;
+import java.util.List;
 import java.util.Properties;
 import java.util.concurrent.TimeUnit;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 
@@ -96,6 +98,19 @@ public class BaseClass {
 		driver.findElement(By.xpath(location)).click();
 	}
 
-
+	//This Method will accept 
+	public static WebElement displayedElement(List<WebElement> elements){
+	
+		
+		for (WebElement element:elements)
+	    {
+	        if (element.isDisplayed()) // correct method: isDisplayed()
+	            return element;
+	    }
+		return null;
+	}
+	
 
 }
+
+
