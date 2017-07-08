@@ -2,7 +2,6 @@ package com.Test.Usecases;
 
 import com.test.Configuration.BaseClass;
 
-import cucumber.api.PendingException;
 import cucumber.api.java.en.Then;
 
 public class CreateUser extends BaseClass{

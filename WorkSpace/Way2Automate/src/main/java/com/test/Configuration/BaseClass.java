@@ -11,10 +11,14 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 
+import com.relevantcodes.extentreports.ExtentReports;
+
 public class BaseClass {
 	public static Properties OR = null;
 	public static Properties CON = null;
 	public static WebDriver driver = null;
+	public static final String EXECUTION_REPORT_FILE_PATH = System.getProperty("user.dir")+"\\ExecutionReports";
+	public static final ExtentReports REPORT = new ExtentReports(EXECUTION_REPORT_FILE_PATH +"AutomationReport.html"); 
 	//public static String isLoggingin = null;
 	
 //	static Logger BaseTest_Logs = Logger.getLogger("BaseTest");
